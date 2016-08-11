@@ -25,3 +25,4 @@ cacheSolve <- function(x, ...) {
         x$setInve(inv)
         inv
 }
+
